@@ -1,0 +1,24 @@
+{
+  "name": "global.flareline.com",
+  "version": "1.0.0",
+  "description": "🌏 Global resources for flareline.com",
+  "main": "index.js",
+  "scripts": {
+    "cdk": "cdk"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlareLine/global.flareline.com.git"
+  },
+  "author": "Ethan Wright <ethan@flareline.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FlareLine/global.flareline.com/issues"
+  },
+  "homepage": "https://github.com/FlareLine/global.flareline.com#readme",
+  "devDependencies": {
+    "@aws-cdk/aws-certificatemanager": "^1.108.1",
+    "@aws-cdk/aws-route53": "^1.108.1",
+    "@aws-cdk/core": "^1.108.1"
+  }
+}
